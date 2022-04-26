@@ -27,7 +27,7 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-```
+```java
 /*
 Program to print the text “Hello World”.
 Developed by: SURYA R
@@ -101,7 +101,7 @@ public class MainActivity extends AppCompatActivity {
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 
-```
+```java
 
 ## OUTPUT
 ![Screenshot (260)](https://user-images.githubusercontent.com/75236145/165218356-63ac229a-d046-4fd9-be1b-c5ff1bcd26c0.png)

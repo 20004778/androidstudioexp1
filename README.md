@@ -3,39 +3,42 @@
 
 
 ## AIM:
-
 To create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio.
 
 ## EQUIPMENTS REQUIRED:
-
 Android Studio(Min.required Artic Fox)
 
 ## ALGORITHM:
+## Step 1: 
+Open Android Stdio and then click on File -> New -> New project.
 
-Step 1: Open Android Stdio and then click on File -> New -> New project.
+## Step 2: 
+Then type the Application name as HelloWorld and click Next. 
 
-Step 2: Then type the Application name as HelloWorld and click Next. 
+## Step 3: 
+Then select the Minimum SDK as shown below and click Next.
 
-Step 3: Then select the Minimum SDK as shown below and click Next.
+## Step 4: 
+Then select the Empty Activity and click Next. Finally click Finish.
 
-Step 4: Then select the Empty Activity and click Next. Finally click Finish.
+## Step 5: 
+Design layout in activity_main.xml.
 
-Step 5: Design layout in activity_main.xml.
+## Step 6: 
+Display message give in MainActivity file.
 
-Step 6: Display message give in MainActivity file.
-
-Step 7: Save and run the application.
+## Step 7: 
+Save and run the application.
 
 ## PROGRAM:
 ```java
-/*
 Program to print the text “Hello World”.
 Developed by: SURYA R
 Registeration Number : 212220230052
-*/
+```
 
 ## MainActivity.java:
-
+```java
 package com.example.exp1;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
@@ -79,9 +82,9 @@ public class MainActivity extends AppCompatActivity {
         toast.show();
     }
 }
-
+```
 ## activity_main.xml:
-
+```java
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -103,7 +106,7 @@ public class MainActivity extends AppCompatActivity {
 
 ```
 
-## OUTPUT
+## <br><br><br><br>OUTPUT
 ![Screenshot (260)](https://user-images.githubusercontent.com/75236145/165218356-63ac229a-d046-4fd9-be1b-c5ff1bcd26c0.png)
 ![Screenshot (253)](https://user-images.githubusercontent.com/75236145/165218393-639a0148-d5b6-4c68-844e-bc62b63337c5.png)
 ![Screenshot (254)](https://user-images.githubusercontent.com/75236145/165218400-1356dd28-4b70-428e-beb3-438d046d7da6.png)

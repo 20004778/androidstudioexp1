@@ -1,7 +1,5 @@
 # androidstudioexp1
 # Ex.No:1 To create a HelloWorld Activity using all lifecycles methods to display messages.
-
-
 ## AIM:
 To create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio.
 
@@ -26,9 +24,6 @@ Design layout in activity_main.xml.
 
 ## Step 6: 
 Display message give in MainActivity file.
-
-## Step 7: 
-Save and run the application.
 
 ## PROGRAM:
 ```java
@@ -106,7 +101,7 @@ public class MainActivity extends AppCompatActivity {
 
 ```
 
-## <br><br><br><br>OUTPUT
+## <br><br><br><br><br><br><br><br><br><br><br><br>OUTPUT
 ![Screenshot (260)](https://user-images.githubusercontent.com/75236145/165218356-63ac229a-d046-4fd9-be1b-c5ff1bcd26c0.png)
 ![Screenshot (253)](https://user-images.githubusercontent.com/75236145/165218393-639a0148-d5b6-4c68-844e-bc62b63337c5.png)
 ![Screenshot (254)](https://user-images.githubusercontent.com/75236145/165218400-1356dd28-4b70-428e-beb3-438d046d7da6.png)
